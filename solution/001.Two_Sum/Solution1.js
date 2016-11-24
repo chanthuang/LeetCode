@@ -12,3 +12,13 @@ var twoSum = function(nums, target) {
         }
     }
 };
+
+function assert(condition, result) {
+    console.log(condition + ' should be ' + result);
+}
+
+function test() {
+    assert(twoSum([2, 7, 11, 15], 9), [0, 1]);
+}
+
+test();
