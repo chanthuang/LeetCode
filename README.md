@@ -11,6 +11,7 @@ LeetCode
 |4|[Median of Two Sorted Arrays][4]|[JavaScript](./solution/004.Median_of_Two_Sorted_Arrays/Solution1.js)|Hard|O(m+n)|
 |4|[Median of Two Sorted Arrays][4]|[JavaScript](./solution/004.Median_of_Two_Sorted_Arrays/Solution2.js)|Hard|O(log2(m+n))|
 |6|[ZigZag Conversion][6]|[JavaScript](./solution/006.ZigZag_Conversion/Solution.js)|Easy|O(n)|
+|7|[Reverse Integer][7]|[JavaScript](./solution/007.Reverse_Integer/Solution.js)|Easy|O(n)|
 
 
 [1]:https://leetcode.com/problems/two-sum/
@@ -18,3 +19,4 @@ LeetCode
 [3]:https://leetcode.com/problems/longest-substring-without-repeating-characters/
 [4]:https://leetcode.com/problems/median-of-two-sorted-arrays/
 [6]:https://leetcode.com/problems/zigzag-conversion/
+[7]:https://leetcode.com/problems/reverse-integer/
