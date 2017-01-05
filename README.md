@@ -1,7 +1,7 @@
 LeetCode
 ========
 
-|NO.|Title|Solution|Difficulty|Time|
+|序号|问题|代码|难度|时间复杂度|
 |----|--------|---------|-------|------|
 |1|[Two Sum][1]|[JavaScript](./solution/001.Two_Sum/Solution1.js)|Easy|O(n^2)|
 |1|[Two Sum][1]|[JavaScript](./solution/001.Two_Sum/Solution2.js)|Easy|O(n)|
