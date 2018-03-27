@@ -7,6 +7,7 @@ LeetCode(https://leetcode.com/)
 |1|[Two Sum][1]|Easy|[JavaScript](./solution/001.Two_Sum/Solution2.js)|O(n)|
 |1|[Two Sum][1]|Easy|[Python](./solution/001.Two_Sum/Solution1.py)|O(n)|
 |2|[Add Tow Numbers][2]|Medium|[JavaScript](./solution/002.Add_Two_Numbers/Solution1.js)|O(n)|
+|2|[Add Tow Numbers][2]|Medium|[Python](./solution/002.Add_Two_Numbers/Solution.py)|O(n)|
 |3|[Longest Substring Without Repeating Characters][3]|Medium|[JavaScript](./solution/003.Longest_Substring_Without_Repeating_Characters/Solution1.js)|O(n^2)|
 |3|[Longest Substring Without Repeating Characters][3]|Medium|[JavaScript](./solution/003.Longest_Substring_Without_Repeating_Characters/Solution2.js)|O(n)|
 |4|[Median of Two Sorted Arrays][4]|Hard|[JavaScript](./solution/004.Median_of_Two_Sorted_Arrays/Solution1.js)|O(m+n)|
